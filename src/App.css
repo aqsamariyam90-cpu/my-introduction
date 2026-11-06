@@ -1,0 +1,49 @@
+.navbar-brand {
+    color: #333333;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.brand-name {
+    color: #4a90a4;
+}
+.intro-section {
+    background-color: #f2f6f7;
+    padding: 55px 0;
+}
+.intro-content h5 {
+    color: #4a90a4;
+}
+.intro-content h1 {
+    color: #333333;
+    font-size: 38px;
+    margin: 15px 0;
+}
+.intro-content h4 {
+    color: #777777;
+    margin-bottom: 20px;
+}
+.intro-content p {
+    color: #555555;
+    max-width: 650px;
+    margin: auto;
+    line-height: 1.7;
+}
+.skills-section {
+    margin-top: 40px;
+}
+.skills-section h2 {
+    color: #333333;
+    margin-bottom: 15px;
+}
+.skills-section ul {
+    display: inline-block;
+    text-align: left;
+    color: #555555;
+    line-height: 1.8;
+}
+.footer {
+    background-color: #333333;
+    color: white;
+    padding: 15px;
+}
