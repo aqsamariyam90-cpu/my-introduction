@@ -5,7 +5,7 @@ function Introduction() {
             <div className="container">
 
                 <div className="intro-content text-center">
-                    <h5>Hello, I'm</h5>
+                    <h5>I'm</h5>
                     <h1>Aqsa Maryam</h1>
                     <h4>BS Information Technology Student</h4>
                     <p>
